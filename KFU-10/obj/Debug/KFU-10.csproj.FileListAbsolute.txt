@@ -1,0 +1,12 @@
+C:\Users\ganie\source\repos\yankibtw\KFU-10\KFU-10\bin\Debug\KFU-10.exe.config
+C:\Users\ganie\source\repos\yankibtw\KFU-10\KFU-10\bin\Debug\KFU-10.exe
+C:\Users\ganie\source\repos\yankibtw\KFU-10\KFU-10\bin\Debug\KFU-10.pdb
+C:\Users\ganie\source\repos\yankibtw\KFU-10\KFU-10\bin\Debug\TUmakov.exe
+C:\Users\ganie\source\repos\yankibtw\KFU-10\KFU-10\bin\Debug\TUmakov.pdb
+C:\Users\ganie\source\repos\yankibtw\KFU-10\KFU-10\bin\Debug\TUmakov.exe.config
+C:\Users\ganie\source\repos\yankibtw\KFU-10\KFU-10\obj\Debug\KFU-10.csproj.AssemblyReference.cache
+C:\Users\ganie\source\repos\yankibtw\KFU-10\KFU-10\obj\Debug\KFU-10.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganie\source\repos\yankibtw\KFU-10\KFU-10\obj\Debug\KFU-10.csproj.CoreCompileInputs.cache
+C:\Users\ganie\source\repos\yankibtw\KFU-10\KFU-10\obj\Debug\KFU-10.csproj.CopyComplete
+C:\Users\ganie\source\repos\yankibtw\KFU-10\KFU-10\obj\Debug\KFU-10.exe
+C:\Users\ganie\source\repos\yankibtw\KFU-10\KFU-10\obj\Debug\KFU-10.pdb

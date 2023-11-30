@@ -1,0 +1,11 @@
+C:\Users\ganie\source\repos\yankibtw\KFU-10\TUmakov\bin\Debug\TUmakov.exe.config
+C:\Users\ganie\source\repos\yankibtw\KFU-10\TUmakov\bin\Debug\TUmakov.exe
+C:\Users\ganie\source\repos\yankibtw\KFU-10\TUmakov\bin\Debug\TUmakov.pdb
+C:\Users\ganie\source\repos\yankibtw\KFU-10\TUmakov\obj\Debug\TUmakov.csproj.AssemblyReference.cache
+C:\Users\ganie\source\repos\yankibtw\KFU-10\TUmakov\obj\Debug\TUmakov.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganie\source\repos\yankibtw\KFU-10\TUmakov\obj\Debug\TUmakov.csproj.CoreCompileInputs.cache
+C:\Users\ganie\source\repos\yankibtw\KFU-10\TUmakov\obj\Debug\TUmakov.exe
+C:\Users\ganie\source\repos\yankibtw\KFU-10\TUmakov\obj\Debug\TUmakov.pdb
+C:\Users\ganie\source\repos\yankibtw\KFU-10\TUmakov\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ganie\source\repos\yankibtw\KFU-10\TUmakov\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ganie\source\repos\yankibtw\KFU-10\TUmakov\obj\Debug\TUmakov.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\ganie\source\repos\yankibtw\KFU-10\ForTumakov\obj\Debug\ForTumakov.csproj.AssemblyReference.cache
+C:\Users\ganie\source\repos\yankibtw\KFU-10\ForTumakov\obj\Debug\ForTumakov.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganie\source\repos\yankibtw\KFU-10\ForTumakov\obj\Debug\ForTumakov.csproj.CoreCompileInputs.cache
+C:\Users\ganie\source\repos\yankibtw\KFU-10\ForTumakov\bin\Debug\ForTumakov.exe.config
+C:\Users\ganie\source\repos\yankibtw\KFU-10\ForTumakov\bin\Debug\ForTumakov.exe
+C:\Users\ganie\source\repos\yankibtw\KFU-10\ForTumakov\bin\Debug\ForTumakov.pdb
+C:\Users\ganie\source\repos\yankibtw\KFU-10\ForTumakov\bin\Debug\TUmakov.exe
+C:\Users\ganie\source\repos\yankibtw\KFU-10\ForTumakov\bin\Debug\TUmakov.pdb
+C:\Users\ganie\source\repos\yankibtw\KFU-10\ForTumakov\bin\Debug\TUmakov.exe.config
+C:\Users\ganie\source\repos\yankibtw\KFU-10\ForTumakov\obj\Debug\ForTumakov.csproj.CopyComplete
+C:\Users\ganie\source\repos\yankibtw\KFU-10\ForTumakov\obj\Debug\ForTumakov.exe
+C:\Users\ganie\source\repos\yankibtw\KFU-10\ForTumakov\obj\Debug\ForTumakov.pdb
